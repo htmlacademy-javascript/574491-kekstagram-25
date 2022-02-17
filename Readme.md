@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Валентина Георгиенко](https://up.htmlacademy.ru/javascript/25/user/574491).
-* Наставник: [Дмитрий Рябинин](https://htmlacademy.ru/profile/haschish).
+* Наставник: [Дмитрий Рябинин](https://up.htmlacademy.ru/javascript/25/user/63289).
 
 ---
 
